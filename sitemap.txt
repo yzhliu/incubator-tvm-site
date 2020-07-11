@@ -1,15 +1,20 @@
 
 https://tvm.apache.org/about
+https://tvm.apache.org/asf
 https://tvm.apache.org/atom.xml
 https://tvm.apache.org/blog
 https://tvm.apache.org/categories
 https://tvm.apache.org/community
+https://tvm.apache.org/download
 https://tvm.apache.org/
 https://tvm.apache.org/rss.xml
 https://tvm.apache.org/sitemap.txt
 https://tvm.apache.org/tags
 https://tvm.apache.org/vta
 
+https://tvm.apache.org/2020/06/04/tinyml-how-tvm-is-taming-tiny
+https://tvm.apache.org/2020/05/20/bring-your-own-datatypes
+https://tvm.apache.org/2020/05/14/compiling-machine-learning-to-webassembly-and-webgpu
 https://tvm.apache.org/2019/05/30/pytorch-frontend
 https://tvm.apache.org/2019/04/29/opt-cuda-quantized
 https://tvm.apache.org/2019/03/18/tvm-apache-announcement
